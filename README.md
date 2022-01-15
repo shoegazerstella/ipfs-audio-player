@@ -4,7 +4,7 @@ Go to [https://shoegazerstella.github.io/ipfs-audio-player/](https://shoegazerst
 
 To run it locally:
 
-`npm start`
+`npm run start`
 
 Runs the app in the development mode.
 
