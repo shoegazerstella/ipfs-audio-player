@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ipfs-audio-player/static/css/main.63db5c93.css",
+    "main.js": "/ipfs-audio-player/static/js/main.32e05fdc.js",
+    "static/js/787.1a6f02e3.chunk.js": "/ipfs-audio-player/static/js/787.1a6f02e3.chunk.js",
+    "index.html": "/ipfs-audio-player/index.html",
+    "main.63db5c93.css.map": "/ipfs-audio-player/static/css/main.63db5c93.css.map",
+    "main.32e05fdc.js.map": "/ipfs-audio-player/static/js/main.32e05fdc.js.map",
+    "787.1a6f02e3.chunk.js.map": "/ipfs-audio-player/static/js/787.1a6f02e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63db5c93.css",
+    "static/js/main.32e05fdc.js"
+  ]
+}
